@@ -15,9 +15,16 @@
   "New York": [],
   "London": [
     "photos/london-1.jpg",
-    "photos/london-2.jpg"
+    "photos/london-2.jpg",
+    "photos/london-3.jpg",
+    "photos/london-4.jpg"
   ],
-  "Paris": [],
+  "Paris": [
+    "photos/paris-1.jpg",
+    "photos/paris-2.jpg",
+    "photos/paris-3.jpg",
+    "photos/paris-4.jpg"
+  ],
   "Roma": [
     "photos/rome-1.jpg",
     "photos/rome-2.jpg",
@@ -29,6 +36,7 @@
   "Istanbul": [
     "photos/istanbul-1.jpg",
     "photos/istanbul-2.jpg",
-    "photos/istanbul-3.jpg"
+    "photos/istanbul-3.jpg",
+    "photos/istanbul-4.jpg"
   ]
 }
