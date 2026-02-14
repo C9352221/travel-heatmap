@@ -6,14 +6,29 @@
   "Honolulu": [],
   "Maui": [],
   "Victoria": [],
-  "Buenos Aires": [],
+  "Buenos Aires": [
+    "photos/buenos-aires-1.jpg",
+    "photos/buenos-aires-2.jpg"
+  ],
   "Mar del Plata": [],
   "Philadelphia": [],
   "New York": [],
-  "London": [],
+  "London": [
+    "photos/london-1.jpg",
+    "photos/london-2.jpg"
+  ],
   "Paris": [],
-  "Rome": [],
+  "Rome": [
+    "photos/rome-1.jpg",
+    "photos/rome-2.jpg",
+    "photos/rome-3.jpg",
+    "photos/rome-4.jpg"
+  ],
   "Barcelona": [],
   "Reykjavik": [],
-  "Istanbul": []
+  "Istanbul": [
+    "photos/istanbul-1.jpg",
+    "photos/istanbul-2.jpg",
+    "photos/istanbul-3.jpg"
+  ]
 }
