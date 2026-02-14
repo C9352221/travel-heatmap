@@ -28,7 +28,6 @@
   "Roma": [
     "photos/rome-1.jpg",
     "photos/rome-2.jpg",
-    "photos/rome-3.jpg",
     "photos/rome-4.jpg"
   ],
   "Barcelona": [],
@@ -38,5 +37,75 @@
     "photos/istanbul-2.jpg",
     "photos/istanbul-3.jpg",
     "photos/istanbul-4.jpg"
+  ],
+  "Venice": [
+    "photos/venice-1.jpg",
+    "photos/venice-2.jpg",
+    "photos/venice-3.jpg",
+    "photos/venice-4.jpg"
+  ],
+  "Amsterdam": [
+    "photos/amsterdam-1.jpg",
+    "photos/amsterdam-2.jpg",
+    "photos/amsterdam-3.jpg",
+    "photos/amsterdam-4.jpg"
+  ],
+  "Copenhagen": [
+    "photos/copenhagen-1.jpg",
+    "photos/copenhagen-2.jpg",
+    "photos/copenhagen-3.jpg",
+    "photos/copenhagen-4.jpg"
+  ],
+  "Bologna": [
+    "photos/bologna-1.jpg",
+    "photos/bologna-2.jpg",
+    "photos/bologna-3.jpg",
+    "photos/bologna-4.jpg"
+  ],
+  "Tuscany": [
+    "photos/tuscany-1.jpg",
+    "photos/tuscany-2.jpg",
+    "photos/tuscany-3.jpg",
+    "photos/tuscany-4.jpg"
+  ],
+  "Honduras": [
+    "photos/honduras-1.jpg",
+    "photos/honduras-2.jpg",
+    "photos/honduras-4.jpg"
+  ],
+  "North Italy": [
+    "photos/north-italy-1.jpg",
+    "photos/north-italy-2.jpg",
+    "photos/north-italy-3.jpg",
+    "photos/north-italy-4.jpg"
+  ],
+  "Turin": [
+    "photos/turin-1.jpg",
+    "photos/turin-2.jpg",
+    "photos/turin-3.jpg",
+    "photos/turin-4.jpg"
+  ],
+  "Modena": [
+    "photos/modena-1.jpg",
+    "photos/modena-2.jpg",
+    "photos/modena-3.jpg",
+    "photos/modena-4.jpg"
+  ],
+  "Calabria": [
+    "photos/calabria-2.jpg",
+    "photos/calabria-3.jpg",
+    "photos/calabria-4.jpg"
+  ],
+  "Scotland": [
+    "photos/scotland-1.jpg",
+    "photos/scotland-2.jpg",
+    "photos/scotland-3.jpg",
+    "photos/scotland-4.jpg"
+  ],
+  "Reading": [
+    "photos/reading-1.jpg",
+    "photos/reading-2.jpg",
+    "photos/reading-3.jpg",
+    "photos/reading-4.jpg"
   ]
 }
